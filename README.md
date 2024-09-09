@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/d58095dc-0c56-49d2-9d0a-4f2d4aa68d18)# Data-Analytics-Project
+Data-Analytics-Project
+
 If you've ever wondered about a dashboard's true value, this project offers a clear demonstration.
 
 ![image](https://github.com/user-attachments/assets/159cd063-fd49-4248-b3ee-43aa5e4bda29)
